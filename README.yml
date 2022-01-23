@@ -1,10 +1,7 @@
 ---
 owner:
-  firstname: Ethan
-  lastname: Japundza
-  hid: sp19-222-90
-  community: e222
-  semester: sp19
+  firstname: Brian
+  lastname: Schwantes
 project:
   - title: "Rookie Fantasy Football Predictions"
     url: https://github.com/cloudmesh-community/sp19-222-90/blob/master/project-report/report.md
